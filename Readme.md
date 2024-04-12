@@ -4,11 +4,12 @@ Welcome to the Autonomous Driving System project! This repository contains the c
 
 ```From```
 
-https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/184d3595-e80d-4b2f-b600-89cdb39f8d6d
+<img src="https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/184d3595-e80d-4b2f-b600-89cdb39f8d6d" width="300">
 
 ```To```
 
-https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/4acef008-096d-4a10-8cfa-e28867fdfaec
+<img src="https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/4acef008-096d-4a10-8cfa-e28867fdfaec" width="300">
+
 
 
 
