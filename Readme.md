@@ -2,16 +2,15 @@
 
 Welcome to the Autonomous Driving System project! This repository contains the codebase for an autonomous vehicle system designed to detect and respond to road conditions, objects, and traffic signs using machine learning and computer vision technologies.
 
-## Features
+```From```
 
--Detects Traffic Lights
--Car
--Pedestrian
--Road
--sky
+https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/184d3595-e80d-4b2f-b600-89cdb39f8d6d
 
-<video width="400" height="200" src="nb_images/pred_video_compressed2.mp4" type="video/mp4" controls>
-</video>
+```To```
+
+https://github.com/kiritoInd/Autonomous-Driving-Object-Detection/assets/96108214/4acef008-096d-4a10-8cfa-e28867fdfaec
+
+
 
 ## Acknowledgments
 
